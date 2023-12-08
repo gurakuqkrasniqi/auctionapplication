@@ -1,0 +1,12 @@
+C:\Users\gurak\source\repos\AuctionApplication\AuctionApplication\AuctionApp.Business\bin\Debug\net6.0\AuctionApp.Business.deps.json
+C:\Users\gurak\source\repos\AuctionApplication\AuctionApplication\AuctionApp.Business\bin\Debug\net6.0\AuctionApp.Business.dll
+C:\Users\gurak\source\repos\AuctionApplication\AuctionApplication\AuctionApp.Business\bin\Debug\net6.0\AuctionApp.Business.pdb
+C:\Users\gurak\source\repos\AuctionApplication\AuctionApplication\AuctionApp.Business\obj\Debug\net6.0\AuctionApp.Business.csproj.AssemblyReference.cache
+C:\Users\gurak\source\repos\AuctionApplication\AuctionApplication\AuctionApp.Business\obj\Debug\net6.0\AuctionApp.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gurak\source\repos\AuctionApplication\AuctionApplication\AuctionApp.Business\obj\Debug\net6.0\AuctionApp.Business.AssemblyInfoInputs.cache
+C:\Users\gurak\source\repos\AuctionApplication\AuctionApplication\AuctionApp.Business\obj\Debug\net6.0\AuctionApp.Business.AssemblyInfo.cs
+C:\Users\gurak\source\repos\AuctionApplication\AuctionApplication\AuctionApp.Business\obj\Debug\net6.0\AuctionApp.Business.csproj.CoreCompileInputs.cache
+C:\Users\gurak\source\repos\AuctionApplication\AuctionApplication\AuctionApp.Business\obj\Debug\net6.0\AuctionApp.Business.dll
+C:\Users\gurak\source\repos\AuctionApplication\AuctionApplication\AuctionApp.Business\obj\Debug\net6.0\refint\AuctionApp.Business.dll
+C:\Users\gurak\source\repos\AuctionApplication\AuctionApplication\AuctionApp.Business\obj\Debug\net6.0\AuctionApp.Business.pdb
+C:\Users\gurak\source\repos\AuctionApplication\AuctionApplication\AuctionApp.Business\obj\Debug\net6.0\ref\AuctionApp.Business.dll

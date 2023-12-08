@@ -1,0 +1,17 @@
+C:\Users\gurak\source\repos\AuctionApplication\AuctionApplication\Auction.Infrastructure\bin\Debug\net6.0\AuctionApp.Infrastructure.deps.json
+C:\Users\gurak\source\repos\AuctionApplication\AuctionApplication\Auction.Infrastructure\bin\Debug\net6.0\AuctionApp.Infrastructure.runtimeconfig.json
+C:\Users\gurak\source\repos\AuctionApplication\AuctionApplication\Auction.Infrastructure\bin\Debug\net6.0\AuctionApp.Infrastructure.dll
+C:\Users\gurak\source\repos\AuctionApplication\AuctionApplication\Auction.Infrastructure\bin\Debug\net6.0\AuctionApp.Infrastructure.pdb
+C:\Users\gurak\source\repos\AuctionApplication\AuctionApplication\Auction.Infrastructure\bin\Debug\net6.0\AuctionApp.Domain.dll
+C:\Users\gurak\source\repos\AuctionApplication\AuctionApplication\Auction.Infrastructure\bin\Debug\net6.0\AuctionApp.Domain.pdb
+C:\Users\gurak\source\repos\AuctionApplication\AuctionApplication\Auction.Infrastructure\obj\Debug\net6.0\AuctionApp.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\gurak\source\repos\AuctionApplication\AuctionApplication\Auction.Infrastructure\obj\Debug\net6.0\AuctionApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gurak\source\repos\AuctionApplication\AuctionApplication\Auction.Infrastructure\obj\Debug\net6.0\AuctionApp.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\gurak\source\repos\AuctionApplication\AuctionApplication\Auction.Infrastructure\obj\Debug\net6.0\AuctionApp.Infrastructure.AssemblyInfo.cs
+C:\Users\gurak\source\repos\AuctionApplication\AuctionApplication\Auction.Infrastructure\obj\Debug\net6.0\AuctionApp.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\gurak\source\repos\AuctionApplication\AuctionApplication\Auction.Infrastructure\obj\Debug\net6.0\AuctionApp.Infrastructure.csproj.CopyComplete
+C:\Users\gurak\source\repos\AuctionApplication\AuctionApplication\Auction.Infrastructure\obj\Debug\net6.0\AuctionApp.Infrastructure.dll
+C:\Users\gurak\source\repos\AuctionApplication\AuctionApplication\Auction.Infrastructure\obj\Debug\net6.0\refint\AuctionApp.Infrastructure.dll
+C:\Users\gurak\source\repos\AuctionApplication\AuctionApplication\Auction.Infrastructure\obj\Debug\net6.0\AuctionApp.Infrastructure.pdb
+C:\Users\gurak\source\repos\AuctionApplication\AuctionApplication\Auction.Infrastructure\obj\Debug\net6.0\AuctionApp.Infrastructure.genruntimeconfig.cache
+C:\Users\gurak\source\repos\AuctionApplication\AuctionApplication\Auction.Infrastructure\obj\Debug\net6.0\ref\AuctionApp.Infrastructure.dll

@@ -1,0 +1,14 @@
+C:\Users\gurak\source\repos\AuctionApplication\AuctionApplication\Auction.Domain\bin\Debug\net6.0\AuctionApp.Domain.deps.json
+C:\Users\gurak\source\repos\AuctionApplication\AuctionApplication\Auction.Domain\bin\Debug\net6.0\AuctionApp.Domain.dll
+C:\Users\gurak\source\repos\AuctionApplication\AuctionApplication\Auction.Domain\bin\Debug\net6.0\AuctionApp.Domain.pdb
+C:\Users\gurak\source\repos\AuctionApplication\AuctionApplication\Auction.Domain\obj\Debug\net6.0\AuctionApp.Domain.csproj.AssemblyReference.cache
+C:\Users\gurak\source\repos\AuctionApplication\AuctionApplication\Auction.Domain\obj\Debug\net6.0\AuctionApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gurak\source\repos\AuctionApplication\AuctionApplication\Auction.Domain\obj\Debug\net6.0\AuctionApp.Domain.AssemblyInfoInputs.cache
+C:\Users\gurak\source\repos\AuctionApplication\AuctionApplication\Auction.Domain\obj\Debug\net6.0\AuctionApp.Domain.AssemblyInfo.cs
+C:\Users\gurak\source\repos\AuctionApplication\AuctionApplication\Auction.Domain\obj\Debug\net6.0\AuctionApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\gurak\source\repos\AuctionApplication\AuctionApplication\Auction.Domain\obj\Debug\net6.0\AuctionApp.Domain.dll
+C:\Users\gurak\source\repos\AuctionApplication\AuctionApplication\Auction.Domain\obj\Debug\net6.0\refint\AuctionApp.Domain.dll
+C:\Users\gurak\source\repos\AuctionApplication\AuctionApplication\Auction.Domain\obj\Debug\net6.0\AuctionApp.Domain.pdb
+C:\Users\gurak\source\repos\AuctionApplication\AuctionApplication\Auction.Domain\obj\Debug\net6.0\ref\AuctionApp.Domain.dll
+C:\Users\gurak\source\repos\AuctionApplication\AuctionApplication\Auction.Domain\bin\Debug\net6.0\AuctionApp.Domain.runtimeconfig.json
+C:\Users\gurak\source\repos\AuctionApplication\AuctionApplication\Auction.Domain\obj\Debug\net6.0\AuctionApp.Domain.genruntimeconfig.cache
